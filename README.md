@@ -13,5 +13,6 @@ Simple examples on Android:
 - [ListViewSportsApp](https://github.com/tuttelikz/android-kickstart/tree/main/ListViewSportsApp)
 - [ReadCSVSimple](https://github.com/tuttelikz/android-kickstart/tree/main/ReadCSVSimple)
 - [ReadPDFSimple](https://github.com/tuttelikz/android-kickstart/tree/main/ReadPDFSimple)
+- [VideoRecorderSimple](https://github.com/tuttelikz/android-kickstart/tree/main/VideoRecorderSimple)
 - [WebviewSimple](https://github.com/tuttelikz/android-kickstart/tree/main/WebviewSimple)
 - [WifiSimple](https://github.com/tuttelikz/android-kickstart/tree/main/WifiSimple)
