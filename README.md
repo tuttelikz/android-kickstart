@@ -23,16 +23,6 @@
 - [WifiSimple](https://github.com/tuttelikz/android-kickstart/tree/main/WifiSimple)  
 
 ### Useful Github Libraries:
-**Cloud & Beta Testing:**  
-[Firebase](https://firebase.google.com/)  
-[Crashlytics](https://fabric.io/kits/android/crashlytics/install).
-
-**Charts:**   
-[PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)  
-[danielgindi/Charts](https://github.com/danielgindi/Charts)  
-[jjoe64/GraphView](https://github.com/jjoe64/GraphView)  
-[diogobernardino/williamchart](https://github.com/diogobernardino/williamchart)  
-[lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)  
 
 **Animations & Progress:**  
 [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)   
@@ -49,22 +39,33 @@
 [Audio Fingerprinting Service](https://www.acrcloud.com/)  
 [ABTSoftware/SciChart.Android.Examples](https://github.com/ABTSoftware/SciChart.Android.Examples)
 
-**Open-Source:**  
-[pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps)  
-
-**Camera:**  
-[florent37/CameraFragment](https://github.com/florent37/CameraFragment)  
-
 **Bluetooth:**  
 [OmarAflak/Bluetooth-Library](https://github.com/OmarAflak/Bluetooth-Library)  
 [Mayoogh/Arduino-Bluetooth-Basic](https://github.com/Mayoogh/Arduino-Bluetooth-Basic)  
 
-**Server:**  
-[linkindrew/easyFTP](https://github.com/linkindrew/easyFTP)  
+**Camera:**  
+[florent37/CameraFragment](https://github.com/florent37/CameraFragment)  
+
+**Charts:**   
+[PhilJay/MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)  
+[danielgindi/Charts](https://github.com/danielgindi/Charts)  
+[jjoe64/GraphView](https://github.com/jjoe64/GraphView)  
+[diogobernardino/williamchart](https://github.com/diogobernardino/williamchart)  
+[lecho/hellocharts-android](https://github.com/lecho/hellocharts-android)  
+
+**Cloud & Beta Testing:**  
+[Firebase](https://firebase.google.com/)  
+[Crashlytics](https://fabric.io/kits/android/crashlytics/install)
 
 **Files Opening:**  
 [osiegmar/FastCSV](https://github.com/osiegmar/FastCSV)  
 [barteksc/AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer)  
+
+**Open-Source:**  
+[pcqpcq/open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps)  
+
+**Server:**  
+[linkindrew/easyFTP](https://github.com/linkindrew/easyFTP)
 
 ### Book for Advanced Learners:
 [Programming Android](https://www.amazon.com/Programming-Android-Generation-Mobile-Devices/dp/1449316646)
