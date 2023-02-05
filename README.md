@@ -8,6 +8,8 @@ Simple examples on Android:
 - [BluetoothSocketSimple](https://github.com/tuttelikz/android-kickstart/tree/main/BluetoothSocketSimple)
 - [CameraSimple](https://github.com/tuttelikz/android-kickstart/tree/main/CameraSimple)
 - [FTPSimple](https://github.com/tuttelikz/android-kickstart/tree/main/FTPSimple)
+- [GridLayoutSimple](https://github.com/tuttelikz/android-kickstart/tree/main/GridLayoutSimple)
+- [InternalStorageSimple](https://github.com/tuttelikz/android-kickstart/tree/main/InternalStorageSimple)
 - [ListViewSportsApp](https://github.com/tuttelikz/android-kickstart/tree/main/ListViewSportsApp)
 - [ReadCSVSimple](https://github.com/tuttelikz/android-kickstart/tree/main/ReadCSVSimple)
 - [ReadPDFSimple](https://github.com/tuttelikz/android-kickstart/tree/main/ReadPDFSimple)
