@@ -11,6 +11,7 @@ Simple examples on Android:
 - [GridLayoutSimple](https://github.com/tuttelikz/android-kickstart/tree/main/GridLayoutSimple)
 - [InternalStorageSimple](https://github.com/tuttelikz/android-kickstart/tree/main/InternalStorageSimple)
 - [ListViewSportsApp](https://github.com/tuttelikz/android-kickstart/tree/main/ListViewSportsApp)
+- [NavbarSimple](https://github.com/tuttelikz/android-kickstart/tree/main/NavbarSimple)
 - [ReadCSVSimple](https://github.com/tuttelikz/android-kickstart/tree/main/ReadCSVSimple)
 - [ReadPDFSimple](https://github.com/tuttelikz/android-kickstart/tree/main/ReadPDFSimple)
 - [TabLayoutSimple](https://github.com/tuttelikz/android-kickstart/tree/main/TabLayoutSimple)
