@@ -2,5 +2,5 @@
 
 Simple examples on Android:
 
-- BluetoothSocketSimple  
-https://github.com/tuttelikz/android-kickstart/BluetoothSocketSimple
+- [BluetoothSocketSimple](https://github.com/tuttelikz/android-kickstart/tree/main/BluetoothSocketSimple)
+- [CameraSimple](https://github.com/tuttelikz/android-kickstart/tree/main/CameraSimple)
