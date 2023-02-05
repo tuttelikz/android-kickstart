@@ -9,5 +9,6 @@ Simple examples on Android:
 - [CameraSimple](https://github.com/tuttelikz/android-kickstart/tree/main/CameraSimple)
 - [FTPSimple](https://github.com/tuttelikz/android-kickstart/tree/main/FTPSimple)
 - [ListViewSportsApp](https://github.com/tuttelikz/android-kickstart/tree/main/ListViewSportsApp)
+- [ReadPDFSimple](https://github.com/tuttelikz/android-kickstart/tree/main/ReadPDFSimple)
 - [WebviewSimple](https://github.com/tuttelikz/android-kickstart/tree/main/WebviewSimple)
 - [WifiSimple](https://github.com/tuttelikz/android-kickstart/tree/main/WifiSimple)
