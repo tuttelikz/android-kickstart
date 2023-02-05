@@ -66,10 +66,10 @@
 [osiegmar/FastCSV](https://github.com/osiegmar/FastCSV)  
 [barteksc/AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer)  
 
-**Book for Advanced Learners:**  
+### Book for Advanced Learners:
 [Programming Android](https://www.amazon.com/Programming-Android-Generation-Mobile-Devices/dp/1449316646)
 
-**Tips before Beta Release:**
+### Tips before Beta Release:
 - Check your app behaviour on different screen sizes (Phone, Tablet)
 - LinearLayout over ConstraintLayout
 - Check minimal API version, so that app does not crash for older phones
