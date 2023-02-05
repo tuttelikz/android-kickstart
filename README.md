@@ -1,6 +1,6 @@
 # android-kickstart
 
-Simple examples on Android:
+### Simple examples on Android:
 
 - [ARVideoSimple](https://github.com/tuttelikz/android-kickstart/tree/main/ARVideoSimple)
 - [AudioRecorderSimple](https://github.com/tuttelikz/android-kickstart/tree/main/AudioRecorderSimple)
@@ -22,7 +22,7 @@ Simple examples on Android:
 - [WebviewSimple](https://github.com/tuttelikz/android-kickstart/tree/main/WebviewSimple)
 - [WifiSimple](https://github.com/tuttelikz/android-kickstart/tree/main/WifiSimple)  
 
-# Useful Github Libraries:
+### Useful Github Libraries:
 **Cloud & Beta Testing:**  
 [Firebase](https://firebase.google.com/)  
 [Crashlytics](https://fabric.io/kits/android/crashlytics/install).
