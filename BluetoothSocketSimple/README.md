@@ -46,3 +46,5 @@ void loop() {
 6. Receive input stream from Bluetooth socket.
 7. Don't forget to close `BluetoothSocket` after completion.
 8. Display results with `Logcat` of Android.
+
+For the detailed instructions, please follow [here](https://tbl-unist.github.io/tbl-edge/Mobile%20(Mon%20&%20Wed%2014%2030%20~%2016%2030)%20e2931664d0d9423e97b5abd18f4e5a3b/Week%203%20Arduino%20Raspberry%20communication%20&%20sensors%20d1579e4258234e0ebb4fc69184a7c99d/How%20to%20build%20Bluetooth%20Socket%2059a6c3ccfd704c2195a144d2eb990999.html)
